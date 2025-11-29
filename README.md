@@ -28,10 +28,6 @@ In addition to my engineering endeavors, I find myself drawn to:
 
 If you share any of these passions or want to collaborate on projects, feel free to reach out! Let's collaborate, innovate, and explore the wonders of the world together.
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mecineanu&show_icons=true&locale=en&layout=compact&langs_count=6" alt="mecineanu" />
-&nbsp; &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mecineanu&show_icons=true&locale=en" alt="mecineanu" />
-</p>
 
 <!---
 mecineanu/mecineanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
